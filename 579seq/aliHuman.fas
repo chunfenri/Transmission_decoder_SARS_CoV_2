@@ -1,0 +1,11 @@
+IQ-TREE multicore version 1.6.12 for Mac OS X 64-bit built Mar 16 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    yanglimingdeMBP (AVX2, FMA3, 16 GB RAM)
+Command: iqtree -ninit 2 -n 2 -me 0.05 -nt 4 -s aliHuman.fas -m GTR+G
+Seed:    417066 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed May  6 13:28:51 2020
+Kernel:  AVX+FMA - 4 threads (8 CPU cores detected)
+
+Reading alignment file aliHuman.fas ... 
